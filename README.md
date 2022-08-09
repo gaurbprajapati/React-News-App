@@ -4,8 +4,8 @@ This is complete responsive functional New App
 It has all category of news business , entertainment , general , health , science , sports , technology
 Used Tech - Materail Ui , React , HTML , CSS , BootStrap , News APi
 
-![](Screenshot%20(402).png)
-![](Screenshot%20(401).png)
+![](Screenshot%20(40).png)
+![](Screenshot%20(40).png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
